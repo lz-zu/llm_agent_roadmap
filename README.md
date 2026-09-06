@@ -11,7 +11,7 @@
 **学习建议**：
 
 1. 查找论文和技术资料时，建议优先使用 Google；
-2. 建议同学们学会使用 ChatGPT、Codex 或 Claude Code 等工具辅助学习与实践；
+2. 建议同学们学会使用 [ChatGPT](https://chatgpt.com/)、[Codex](https://learn.chatgpt.com/docs/codex/cli) 或 [Claude Code](https://claude.com/product/claude-code) 等工具辅助学习与实践；
 3. 建议持续维护一份自己的线上学习笔记，记录知识、问题和解决过程；
 4. 遇到不懂的问题时，可以先用 Google 检索资料、在 Bilibili 查找教程，再带着具体问题向同学或老师请教，主动学习并尝试解决。
 
@@ -23,9 +23,9 @@
 
 ### 1. 善用 AI，但不要依赖 AI
 
-ChatGPT、Codex、Claude Code 可以辅助学习、编程和科研，但不能代替独立思考，也不能保证所有回答都正确。
+[ChatGPT](https://chatgpt.com/)、[Codex](https://learn.chatgpt.com/docs/codex/cli)、[Claude Code](https://claude.com/product/claude-code) 可以辅助学习、编程和科研，但不能代替独立思考，也不能保证所有回答都正确。
 
-* 可以使用 ChatGPT 解释概念、比较方法、辅助阅读论文、整理思路和检查文字表达；
+* 可以使用 [ChatGPT](https://chatgpt.com/) 解释概念、比较方法、辅助阅读论文、整理思路和检查文字表达；
 * 可以使用 [Codex](https://learn.chatgpt.com/docs/codex/cli) 阅读代码仓库、梳理程序流程、修改代码、定位报错，也可以辅助完成论文复现和论文撰写；
 * AI 有时会为了“完成任务”而采取捷径，例如忽略失败样本、弱化检查条件、生成冗余代码，甚至让实验结果看起来虚高；
 * 应仔细检查 AI 生成的代码、实验日志和原始结果，对重要事实和论文结论，应回到原始资料核对；
@@ -33,7 +33,7 @@ ChatGPT、Codex、Claude Code 可以辅助学习、编程和科研，但不能�
 
 #### 示例：使用 ChatGPT 辅助阅读论文
 
-可以将论文 PDF 提交给 ChatGPT，再通过提示词将论文转化为容易理解的文字，快速了解文章脉络和主要内容。但这种方式可能忽略公式、实验细节和部分上下文。如果论文重要，仍需要自己认真阅读原文。
+可以将论文 PDF 提交给 [ChatGPT](https://chatgpt.com/)，再通过提示词将论文转化为容易理解的文字，快速了解文章脉络和主要内容。但这种方式可能忽略公式、实验细节和部分上下文。如果论文重要，仍需要自己认真阅读原文。
 
 下面提供一个可供参考的提示词：
 
