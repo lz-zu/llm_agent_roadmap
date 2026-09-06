@@ -81,12 +81,12 @@ Codex 还支持使用 [Skill](https://learn.chatgpt.com/docs/build-skills) 保�
 
 ### 2. 主动检索，并学会判断资料质量
 
-科研初期应广泛阅读文献，避免过早将视野局限于某个具体方法。遇到陌生概念、代码报错或新的研究问题时，应主动检索资料，可以从 [Google](https://www.google.com/)、[Bilibili](https://www.bilibili.com/)、知乎、小红书等渠道寻找线索。
+科研初期应广泛阅读文献，避免过早将视野局限于某个具体方法。遇到陌生概念、代码报错或新的研究问题时，应主动检索资料，可以从 [Google](https://www.google.com/)、[Bilibili](https://www.bilibili.com/)、[知乎](https://www.zhihu.com/)、[小红书](https://www.xiaohongshu.com/)等渠道寻找线索。
 
 * 使用 [Google](https://www.google.com/) 搜索论文、官方文档、代码仓库，以及相关学者和实验室的主页；
 * 使用 [Google Scholar](https://scholar.google.com/) 检索学术论文，结合论文的参考文献和“被引用”列表，梳理前期工作与后续进展；
 * 使用 [Bilibili](https://www.bilibili.com/) 上的中文课程、论文讲解和技术分享快速建立直观认识；
-* 小红书和微信公众号上的研究分享也可以作为发现论文的入口，感兴趣的内容应进一步查阅原论文；
+* [小红书](https://www.xiaohongshu.com/)和微信公众号上的研究分享也可以作为发现论文的入口，感兴趣的内容应进一步查阅原论文；
 * 在确定具体研究问题时，应寻找可供参考的基线方法（baseline），了解其数据集、评价指标、实验设置和对比结果，提前规划自己的实验。优先关注近一年内的相关工作，同时保留有代表性的经典基线。
 
 阅读论文时，应优先关注领域内的顶级会议、顶级期刊和具有代表性的工作。例如：
@@ -102,7 +102,7 @@ Codex 还支持使用 [Skill](https://learn.chatgpt.com/docs/build-skills) 保�
 
 接触一个新的研究方向时，建议按照下面的思路逐步深入：
 
-1. **阅读综述和典型论文**：使用“研究方向 + survey/review/tutorial”等关键词检索综述和教程。对于热门方向，也可以通过 [Bilibili](https://www.bilibili.com/)、小红书等平台上的讨论建立直观认识，再结合综述和论文深入了解该方向的研究目标、常用数据集和评测指标；
+1. **阅读综述和典型论文**：使用“研究方向 + survey/review/tutorial”等关键词检索综述和教程。对于热门方向，也可以通过 [Bilibili](https://www.bilibili.com/)、[小红书](https://www.xiaohongshu.com/)等平台上的讨论建立直观认识，再结合综述和论文深入了解该方向的研究目标、常用数据集和评测指标；
 2. **寻找感兴趣的问题**：结合现有方法的不足，寻找自己感兴趣的具体问题。可以在组内师兄师姐已有工作的基础上继续探索，也可以通过阅读论文寻找新问题，并与导师讨论研究的价值和可行性；
 3. **深入阅读与实践**：围绕小方向继续检索论文，选择有公开代码的工作进行复现和分析，逐步形成系统而具体的认识。
 
@@ -236,8 +236,8 @@ Python 是人工智能领域常用的编程语言，应优先掌握。可以自�
 
 #### 图像质量评估
 
-* [MoE-AGIQA: Mixture-of-Experts Boosted Visual Perception-Driven and Semantic-Aware Quality Assessment for AI-Generated Images](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Yang_MoE-AGIQA_Mixture-of-Experts_Boosted_Visual_Perception-Driven_and_Semantic-Aware_Quality_Assessment_for_CVPRW_2024_paper.pdf)
 * [AIGC Image Quality Assessment via Image-Prompt Correspondence](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Peng_AIGC_Image_Quality_Assessment_via_Image-Prompt_Correspondence_CVPRW_2024_paper.html)
+* [MoE-AGIQA: Mixture-of-Experts Boosted Visual Perception-Driven and Semantic-Aware Quality Assessment for AI-Generated Images](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Yang_MoE-AGIQA_Mixture-of-Experts_Boosted_Visual_Perception-Driven_and_Semantic-Aware_Quality_Assessment_for_CVPRW_2024_paper.pdf)
 
 #### 知识图谱
 
